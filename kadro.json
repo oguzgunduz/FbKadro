@@ -1,0 +1,74 @@
+[{
+"Futbolcu": "Volkan Demirel",
+"Numara": "1",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/volkan.jpg",
+"Mevki": "Kaleci"
+},
+ {
+"Futbolcu": "Gökhan Gönül",
+"Numara": "77",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/gokhangonul.jpg",
+"Mevki": "Sağ Bek"
+},
+ {
+"Futbolcu": "Lugano",
+"Numara": "2",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/lugano.jpg",
+"Mevki": "Stoper"
+},
+ {
+"Futbolcu": "Bekir",
+"Numara": "4",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/bekir.jpeg",
+"Mevki": "Stoper"
+}
+},
+ {
+"Futbolcu": "Andre Santos",
+"Numara": "27",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/andresantos.jpg",
+"Mevki": "Sol Bek"
+}
+},
+ {
+"Futbolcu": "Emre",
+"Numara": "5",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/emre-belozoglu.jpg",
+"Mevki": "Orta Saha"
+}
+},
+ {
+"Futbolcu": "Baroni",
+"Numara": "16",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/baroni.jpg",
+"Mevki": "Orta Saha"
+}
+},
+ {
+"Futbolcu": "Alex",
+"Numara": "10",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/alex.jpg",
+"Mevki": "Merkezi Ofansif Orta Saha"
+}
+},
+ {
+"Futbolcu": "Miroslav Stoch",
+"Numara": "9",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/stoch.jpg",
+"Mevki": "Sol Açık"
+}
+},
+ {
+"Futbolcu": "Issier Dia",
+"Numara": "92",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/dia.jpg",
+"Mevki": "Sağ Açık"
+}
+},
+ {
+"Futbolcu": "Mamadou Niang",
+"Numara": "7",
+"ResimURL": "https://raw.githubusercontent.com/oguzgunduz/FbKadro/main/niang.jpg",
+"Mevki": "Forvet"
+}
+]
